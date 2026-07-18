@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Tyler Technologies (iasWorld)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Summit County (Official Site)", category: "Government", subcategory: "County", url: "https://co.summitoh.net/", description: "Official County of Summit government website — executive, departments, services." },
